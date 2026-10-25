@@ -41,4 +41,5 @@ Centralized session application and auth hashing per request.
 Changed
 Improved sign-in failure guidance for the in-app Google flow and the Cookie fallback.
 
--Important Note: This is not the final version of the plugin. To prevent potential issues and ensure continued improvements, it will be updated over time. To avoid misleading users, please note that the code was written entirely by AI. The plugin is currently working correctly and is being tested by other users.
+- Important Note: 
+This is not the final version of the plugin. To prevent potential issues and ensure continued improvements, it will be updated over time. To avoid misleading users, please note that the code was written entirely by AI. The plugin is currently working correctly and is being tested by other users.
