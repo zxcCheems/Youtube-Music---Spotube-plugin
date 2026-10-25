@@ -14,9 +14,7 @@
 
 - Spotube version 5.1.2.
 
-# Changelog
-
-# 2.0 — 2026-10-25
+# Changelog 2.0 — 2026-10-25
 
 # Changed
 
