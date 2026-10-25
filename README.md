@@ -31,8 +31,12 @@ repository field to the manifest, enabling the version badge in Spotube.
 
 Security
 Added a single HTTP request sink with strict URL validation: HTTPS-only music.youtube.com, allowed endpoint paths, no userinfo, no query or fragment, and no encoded path tricks.
+
 Disabled redirects at the HTTP layer and reject 3xx responses.
+
 Added a cookie allowlist and filtering; only required YouTube Music cookies are stored.
+
 Centralized session application and auth hashing per request.
+
 Changed
 Improved sign-in failure guidance for the in-app Google flow and the Cookie fallback.
