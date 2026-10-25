@@ -17,6 +17,7 @@
 # Changelog 2.0 — 2026-10-25
 
 # Changed
+- Now you can see developer and link to GitHub in Spotube
 
 - Renamed the plugin from YouTube Music Google Login to YouTube Music.
 
