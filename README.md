@@ -14,6 +14,20 @@
 
 - Spotube version 5.1.2.
 
+# Changelog 01.11.2026 
+
+- 2.0.1 — Playlist Cover Fix
+
+- Fixed a bug where all songs in a playlist showed the same cover.
+
+Now every song displays its own cover.
+
+The playlist cover is only used if a song has no cover.
+
+Added 5 tests to make sure everything works correctly.
+
+Updated the plugin file.
+
 # Changelog 2.0 — 2026-10-25
 
 # Changed
