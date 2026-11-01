@@ -14,7 +14,7 @@
 
 - Spotube version 5.1.2.
 
-# Changelog 01.11.2026 
+# Changelog 2.1 — 01-11-2026 
 
 - 2.0.1 — Playlist Cover Fix
 
