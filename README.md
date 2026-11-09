@@ -1,4 +1,4 @@
-# YouTube Music — Spotube Plugin
+# YouTube Music — Metadata Spotube Plugin
 
 - A community-made YouTube Music plugin for Spotube.
 
